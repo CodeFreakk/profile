@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAMUEL AYINLA</h1>
+<h1 align="center">Hi there👋, I'm SAMUEL AYINLA</h1>
 <h3 align="center">A passionate frontend developer and UI UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codefreakk&label=Profile%20views&color=0e75b6&style=flat" alt="codefreakk" /> </p>
@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codefreakk&show_icons=true&locale=en" alt="codefreakk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codefreakk&" alt="codefreakk" /></p>
+
 
 
 
